@@ -14,7 +14,7 @@
     "dotenv": "^8.2.0",
     "inquirer": "^7.0.4",
     "instagram-private-api": "^1.39.0",
-    "sharp": "^0.24.0",
+    "sharp": "^0.30.5",
     "winston": "^3.2.1"
   }
 }
